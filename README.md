@@ -61,31 +61,6 @@ background: linear-gradient(45deg, #ffd700, #ff6b6b);
 
 Chrome, Firefox, Safari, Edge, iOS Safari, Android Chrome ✅
 
-## 📝 License
-
-[MIT](LICENSE) © 2024 Happy New Year 2026
-
----
-
-<div align="center">
-
-**🎆 Happy New Year 2026! 🎆**
-
-⭐ Star this repo if you like it!
-
-</div>
-```
-
----
-
-# 📄 LICENSE
-
-```
-MIT License
----
-
-## 📂 Repository Files
-
 | File | Description |
 |------|-------------|
 | `index.html` | Main application |
